@@ -6,3 +6,6 @@
 
 ------Kết quả Pattern 02------
 <img width="974" height="512" alt="image" src="https://github.com/user-attachments/assets/c3634b2f-f6ee-4282-9dd1-c615e8e13437" />
+
+-----Kết quản Myworl-----
+<img width="1920" height="1043" alt="image" src="https://github.com/user-attachments/assets/02fbe7b4-0441-4fbc-8ead-206c09a30bf8" />
